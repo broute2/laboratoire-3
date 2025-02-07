@@ -26,7 +26,14 @@ while True:
             if nom_d_utilisateur_linux == "admin": #rentrer admin si vous ne vouler pas quitter la page
                 mot_de_passe = input("veuiller rentrer votre mot de passe pour confirmer votre identité")
                 while mot_de_passe != "123456":
-                    print
+                    print("mot de passe incorrect")
+            else:
+                print("error")
+                print("error")
+                print("error")
+                print("error")
+                print("error")
+                print("error")#bug volontaire
             print("bienvenue")
             print("vous pouvez continuer à utiliser votre ordinateur")  
     else:
