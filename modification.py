@@ -1,0 +1,1 @@
+"""premièrement modifie le code pour que le programme n'étewin plus le'ordinateur de l'utilisateur sauf dans un cas précis puisque"""
